@@ -1,0 +1,22 @@
+.images{
+    max-width: 12%;
+    max-height: 2%;
+}
+.main{
+    margin-left: 45%;
+    margin-top: 9%;
+}
+.eachitems{
+background: blue;
+color: cyan;
+
+
+}
+.showitems{
+    
+    max-width: 32%;
+}
+.todo-btn{
+    display: flex;
+    justify-content: space-around;
+}
